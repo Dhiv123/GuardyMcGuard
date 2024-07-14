@@ -36,8 +36,17 @@ Welcome to GuardyMcGuard, your ultimate cybersecurity sidekick! Whether you're a
 ```git clone https://github.com/yourusername/GuardyMcGuard.git```
 
 ```cd GuardyMcGuard ```
+### Install Docker Desktop or set up mindsdb locally
 
+1. **Install Docker Desktop:**
+   - Download and install Docker Desktop from [here](https://www.docker.com/products/docker-desktop).
+
+2. **Run MindsDB Docker Container:**
+   ```docker run -p 47334:47334 mindsdb/mindsdb```
+3. **Run the code given in cyber_chatbot7.sql to create the model and make predictions.
+   
 ### Setup Virtual Environment
+
 ```python -m venv venv```
 
 ```source venv/bin/activate  # On Windows, use `venv\Scripts\activate` ```
