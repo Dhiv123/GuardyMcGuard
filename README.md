@@ -43,7 +43,8 @@ Welcome to GuardyMcGuard, your ultimate cybersecurity sidekick! Whether you're a
 
 2. **Run MindsDB Docker Container:**
    ```docker run -p 47334:47334 mindsdb/mindsdb```
-3. **Run the code given in cyber_chatbot7.sql to create the model and make predictions.
+   
+4. **Run the code given in cyber_chatbot7.sql to create the model and make predictions.**
    
 ### Setup Virtual Environment
 
