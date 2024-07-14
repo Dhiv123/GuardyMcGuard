@@ -71,7 +71,7 @@ Seasoned professionals will appreciate GuardyMcGuard's advanced features like in
 Explore GuardyMcGuard's Fun Zone, where learning meets fun! Check out our interactive games, quizzes, and courses.
 
 ## Contributing
-We welcome contributions from the community! If you have suggestions, bug reports, or want to contribute code, please open an issue or submit a pull request.
+If you have suggestions, bug reports, or want to contribute code, please open an issue or submit a pull request.
 
 Steps to Contribute
 Fork the repository.
